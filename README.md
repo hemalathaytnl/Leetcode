@@ -6,16 +6,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/hemalathaytnl/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/hemalathaytnl/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1635-number-of-good-pairs](https://github.com/hemalathaytnl/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/hemalathaytnl/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Hash Table
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/hemalathaytnl/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1635-number-of-good-pairs](https://github.com/hemalathaytnl/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/hemalathaytnl/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Math
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/hemalathaytnl/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1635-number-of-good-pairs](https://github.com/hemalathaytnl/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2812-find-the-maximum-achievable-number](https://github.com/hemalathaytnl/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Sliding Window
 |  |
@@ -43,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/hemalathaytnl/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/hemalathaytnl/Leetcode/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
