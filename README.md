@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/hemalathaytnl/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [2812-find-the-maximum-achievable-number](https://github.com/hemalathaytnl/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Sliding Window
 |  |
 | ------- |
