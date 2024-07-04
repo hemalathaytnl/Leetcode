@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/hemalathaytnl/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/hemalathaytnl/Leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/hemalathaytnl/Leetcode/tree/master/0258-add-digits) |
 | [1370-count-number-of-nice-subarrays](https://github.com/hemalathaytnl/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/hemalathaytnl/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2812-find-the-maximum-achievable-number](https://github.com/hemalathaytnl/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -78,4 +79,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/hemalathaytnl/Leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/hemalathaytnl/Leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/hemalathaytnl/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
