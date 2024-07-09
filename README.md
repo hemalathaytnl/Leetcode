@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/hemalathaytnl/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/hemalathaytnl/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0312-burst-balloons](https://github.com/hemalathaytnl/Leetcode/tree/master/0312-burst-balloons) |
 | [0349-intersection-of-two-arrays](https://github.com/hemalathaytnl/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/hemalathaytnl/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0312-burst-balloons](https://github.com/hemalathaytnl/Leetcode/tree/master/0312-burst-balloons) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/hemalathaytnl/Leetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 ## Two Pointers
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/hemalathaytnl/Leetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/hemalathaytnl/Leetcode/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
