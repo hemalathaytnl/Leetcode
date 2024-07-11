@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/hemalathaytnl/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/hemalathaytnl/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/hemalathaytnl/Leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/hemalathaytnl/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/hemalathaytnl/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/hemalathaytnl/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Counting
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/hemalathaytnl/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/hemalathaytnl/Leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/hemalathaytnl/Leetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/hemalathaytnl/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
