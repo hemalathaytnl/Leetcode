@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/hemalathaytnl/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/hemalathaytnl/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/hemalathaytnl/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/hemalathaytnl/Leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
