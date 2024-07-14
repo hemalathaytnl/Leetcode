@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/hemalathaytnl/Leetcode/tree/master/0258-add-digits) |
 | [1370-count-number-of-nice-subarrays](https://github.com/hemalathaytnl/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/hemalathaytnl/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1761-count-sorted-vowel-strings](https://github.com/hemalathaytnl/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [2812-find-the-maximum-achievable-number](https://github.com/hemalathaytnl/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Sliding Window
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/hemalathaytnl/Leetcode/tree/master/0397-integer-replacement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hemalathaytnl/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/hemalathaytnl/Leetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1761-count-sorted-vowel-strings](https://github.com/hemalathaytnl/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/hemalathaytnl/Leetcode/tree/master/0090-subsets-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [1761-count-sorted-vowel-strings](https://github.com/hemalathaytnl/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
