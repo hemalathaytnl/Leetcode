@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/hemalathaytnl/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/hemalathaytnl/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/hemalathaytnl/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0392-is-subsequence](https://github.com/hemalathaytnl/Leetcode/tree/master/0392-is-subsequence) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/hemalathaytnl/Leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/hemalathaytnl/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/hemalathaytnl/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/hemalathaytnl/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0312-burst-balloons](https://github.com/hemalathaytnl/Leetcode/tree/master/0312-burst-balloons) |
+| [0392-is-subsequence](https://github.com/hemalathaytnl/Leetcode/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/hemalathaytnl/Leetcode/tree/master/0397-integer-replacement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hemalathaytnl/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/hemalathaytnl/Leetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/hemalathaytnl/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/hemalathaytnl/Leetcode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
