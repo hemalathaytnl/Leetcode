@@ -142,4 +142,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1761-count-sorted-vowel-strings](https://github.com/hemalathaytnl/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
+## Tree
+|  |
+| ------- |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/hemalathaytnl/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+## Depth-First Search
+|  |
+| ------- |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/hemalathaytnl/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+## Binary Tree
+|  |
+| ------- |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/hemalathaytnl/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 <!---LeetCode Topics End-->
