@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hemalathaytnl/Leetcode/tree/master/0011-container-with-most-water) |
+| [0039-combination-sum](https://github.com/hemalathaytnl/Leetcode/tree/master/0039-combination-sum) |
 | [0064-minimum-path-sum](https://github.com/hemalathaytnl/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0090-subsets-ii](https://github.com/hemalathaytnl/Leetcode/tree/master/0090-subsets-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/hemalathaytnl/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/hemalathaytnl/Leetcode/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/hemalathaytnl/Leetcode/tree/master/0090-subsets-ii) |
 ## Combinatorics
 |  |
