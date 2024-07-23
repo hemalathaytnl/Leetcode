@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/hemalathaytnl/Leetcode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/hemalathaytnl/Leetcode/tree/master/0039-combination-sum) |
 | [0064-minimum-path-sum](https://github.com/hemalathaytnl/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/hemalathaytnl/Leetcode/tree/master/0066-plus-one) |
 | [0090-subsets-ii](https://github.com/hemalathaytnl/Leetcode/tree/master/0090-subsets-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/hemalathaytnl/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0312-burst-balloons](https://github.com/hemalathaytnl/Leetcode/tree/master/0312-burst-balloons) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/hemalathaytnl/Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/hemalathaytnl/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/hemalathaytnl/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/hemalathaytnl/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/hemalathaytnl/Leetcode/tree/master/0258-add-digits) |
