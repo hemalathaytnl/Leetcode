@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/hemalathaytnl/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/hemalathaytnl/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/hemalathaytnl/Leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/hemalathaytnl/Leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/hemalathaytnl/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/hemalathaytnl/Leetcode/tree/master/0258-add-digits) |
 | [1370-count-number-of-nice-subarrays](https://github.com/hemalathaytnl/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/hemalathaytnl/Leetcode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/hemalathaytnl/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/hemalathaytnl/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Prefix Sum
