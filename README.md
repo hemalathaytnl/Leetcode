@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/hemalathaytnl/Leetcode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/hemalathaytnl/Leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/hemalathaytnl/Leetcode/tree/master/0046-permutations) |
 | [0064-minimum-path-sum](https://github.com/hemalathaytnl/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/hemalathaytnl/Leetcode/tree/master/0066-plus-one) |
 | [0090-subsets-ii](https://github.com/hemalathaytnl/Leetcode/tree/master/0090-subsets-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/hemalathaytnl/Leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/hemalathaytnl/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/hemalathaytnl/Leetcode/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/hemalathaytnl/Leetcode/tree/master/0090-subsets-ii) |
 ## Combinatorics
