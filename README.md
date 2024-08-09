@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hemalathaytnl/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/hemalathaytnl/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0058-length-of-last-word](https://github.com/hemalathaytnl/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/hemalathaytnl/Leetcode/tree/master/0067-add-binary) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hemalathaytnl/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0064-minimum-path-sum](https://github.com/hemalathaytnl/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0312-burst-balloons](https://github.com/hemalathaytnl/Leetcode/tree/master/0312-burst-balloons) |
 | [0392-is-subsequence](https://github.com/hemalathaytnl/Leetcode/tree/master/0392-is-subsequence) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hemalathaytnl/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/hemalathaytnl/Leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/hemalathaytnl/Leetcode/tree/master/0018-4sum) |
 | [0349-intersection-of-two-arrays](https://github.com/hemalathaytnl/Leetcode/tree/master/0349-intersection-of-two-arrays) |
