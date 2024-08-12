@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/hemalathaytnl/Leetcode/tree/master/0046-permutations) |
 | [0064-minimum-path-sum](https://github.com/hemalathaytnl/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/hemalathaytnl/Leetcode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/hemalathaytnl/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hemalathaytnl/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/hemalathaytnl/Leetcode/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/hemalathaytnl/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/hemalathaytnl/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/hemalathaytnl/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hemalathaytnl/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/hemalathaytnl/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/hemalathaytnl/Leetcode/tree/master/0191-number-of-1-bits) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/hemalathaytnl/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/hemalathaytnl/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/hemalathaytnl/Leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/hemalathaytnl/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hemalathaytnl/Leetcode/tree/master/0090-subsets-ii) |
 ## Combinatorics
 |  |
