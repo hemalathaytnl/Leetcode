@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/hemalathaytnl/Leetcode/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/hemalathaytnl/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/hemalathaytnl/Leetcode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/hemalathaytnl/Leetcode/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/hemalathaytnl/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/hemalathaytnl/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/hemalathaytnl/Leetcode/tree/master/0078-subsets) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/hemalathaytnl/Leetcode/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/hemalathaytnl/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/hemalathaytnl/Leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/hemalathaytnl/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hemalathaytnl/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/hemalathaytnl/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0049-group-anagrams](https://github.com/hemalathaytnl/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/hemalathaytnl/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/hemalathaytnl/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/hemalathaytnl/Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/hemalathaytnl/Leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/hemalathaytnl/Leetcode/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/hemalathaytnl/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/hemalathaytnl/Leetcode/tree/master/0389-find-the-difference) |
 | [0658-find-k-closest-elements](https://github.com/hemalathaytnl/Leetcode/tree/master/0658-find-k-closest-elements) |
