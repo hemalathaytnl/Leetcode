@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/hemalathaytnl/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0658-find-k-closest-elements](https://github.com/hemalathaytnl/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hemalathaytnl/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1014-k-closest-points-to-origin](https://github.com/hemalathaytnl/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/hemalathaytnl/Leetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1370-count-number-of-nice-subarrays](https://github.com/hemalathaytnl/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/hemalathaytnl/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/hemalathaytnl/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/hemalathaytnl/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/hemalathaytnl/Leetcode/tree/master/0258-add-digits) |
+| [1014-k-closest-points-to-origin](https://github.com/hemalathaytnl/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/hemalathaytnl/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/hemalathaytnl/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1761-count-sorted-vowel-strings](https://github.com/hemalathaytnl/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/hemalathaytnl/Leetcode/tree/master/0191-number-of-1-bits) |
+| [1014-k-closest-points-to-origin](https://github.com/hemalathaytnl/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/hemalathaytnl/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/hemalathaytnl/Leetcode/tree/master/0389-find-the-difference) |
 | [0658-find-k-closest-elements](https://github.com/hemalathaytnl/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/hemalathaytnl/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Simulation
 |  |
 | ------- |
@@ -202,8 +206,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/hemalathaytnl/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/hemalathaytnl/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hemalathaytnl/Leetcode/tree/master/0002-add-two-numbers) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/hemalathaytnl/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/hemalathaytnl/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
