@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/hemalathaytnl/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/hemalathaytnl/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/hemalathaytnl/Leetcode/tree/master/0258-add-digits) |
+| [0390-elimination-game](https://github.com/hemalathaytnl/Leetcode/tree/master/0390-elimination-game) |
 | [1014-k-closest-points-to-origin](https://github.com/hemalathaytnl/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/hemalathaytnl/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/hemalathaytnl/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/hemalathaytnl/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/hemalathaytnl/Leetcode/tree/master/0050-powx-n) |
+| [0390-elimination-game](https://github.com/hemalathaytnl/Leetcode/tree/master/0390-elimination-game) |
 ## Dynamic Programming
 |  |
 | ------- |
