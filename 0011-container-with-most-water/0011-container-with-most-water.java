@@ -2,22 +2,19 @@ import java.util.Arrays;
 
 class Solution {
     public int maxArea(int[] height) {
-        int maxArea = 0;
-        int left = 0;
-        int right = height.length - 1;
-
-        while (left < right) {
-            int minHeight = Math.min(height[left], height[right]);
-            int area = minHeight * (right - left);
-            maxArea = Math.max(maxArea, area);
-
-            if (height[left] < height[right]) {
-                left++;
-            } else {
-                right--;
+        int water=0;
+        int l=0;
+        int r=height.length-1;
+        while(l<r){
+            int minarea=Math.min(height[l],height[r]);
+            int area=minarea*(r-l);
+            water=Math.max(water,area);
+            if(height[l]<height[r]){
+                l++;
+            }else{
+                r--;
             }
         }
-
-        return maxArea;
+        return water;
     }
 }
