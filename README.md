@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/hemalathaytnl/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/hemalathaytnl/Leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/hemalathaytnl/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/hemalathaytnl/Leetcode/tree/master/0031-next-permutation) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/hemalathaytnl/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/hemalathaytnl/Leetcode/tree/master/0069-sqrtx) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/hemalathaytnl/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/hemalathaytnl/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/hemalathaytnl/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0191-number-of-1-bits](https://github.com/hemalathaytnl/Leetcode/tree/master/0191-number-of-1-bits) |
 | [1014-k-closest-points-to-origin](https://github.com/hemalathaytnl/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Bit Manipulation
