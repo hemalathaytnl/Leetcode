@@ -213,14 +213,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/hemalathaytnl/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/hemalathaytnl/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/hemalathaytnl/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/hemalathaytnl/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/hemalathaytnl/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/hemalathaytnl/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Heap (Priority Queue)
 |  |
@@ -239,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/hemalathaytnl/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/hemalathaytnl/Leetcode/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
